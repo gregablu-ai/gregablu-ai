@@ -1,8 +1,8 @@
-# Hi, I'm Giuseppe Rega 👋
+# Hi, I'm Giuseppe Rega 
 
-🎓 M.Sc. Candidate in Data Science and Innovation Management at the University of Salerno
+M.Sc. Candidate in Data Science and Innovation Management at the University of Salerno
 
-📊 Interested in:
+Interested in:
 - Machine Learning
 - Agentic AI Systems
 - Data Science
