@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Giuseppe Rega
 
-<!--
-**gregablu-ai/gregablu-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. Candidate in Data Science and Innovation Management
+University of Salerno
 
-Here are some ideas to get you started:
+Interests:
+- Machine Learning
+- Agentic AI Systems
+- Big Data Analytics
+- Optimization
+- Power Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Thesis:
+Agentic AI for Power Systems:
+Finite-State-Machine Orchestration for MATPOWER Simulation
+
+Projects:
+- PandemicPulse
+- ESG Risk Pricing with XGBoost and SHAP
+- Audio Anomaly Detection
+- Disaster Tweet Classification
+- ThermoSmart
